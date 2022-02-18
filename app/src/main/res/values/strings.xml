@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Clothes Store</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="add_img_item_desc">Image Item</string>
+    <string name="product_actual_price_text"><strike>$1000.00</strike></string>
+    <string name="product_category">category</string>
+    <string name="add_img_close_btn_desc">Image Remove Button</string>
+    <string name="pro_details_actual_strike_value">$%s</string>
+    <string name="catalogue">Catalogue</string>
+    <string name="wish_list">WISH LIST</string>
+    <string name="add_to_cart">ADD TO CART</string>
+    <string name="in_stock">In Stock</string>
+    <string name="your_cart_is_empty">Your cart is empty :(</string>
+    <string name="checkout">Checkout</string>
+</resources>

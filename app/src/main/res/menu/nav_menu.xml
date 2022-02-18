@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/catalogue"
+        android:title="CATALOGUE"
+        android:icon="@drawable/ic_catalogue_selected" />
+
+    <item android:id="@+id/wishList"
+        android:title="WISH LIST"
+        android:icon="@drawable/ic_wish_list_selected" />
+
+
+    <item android:id="@+id/basket"
+        android:title="BASKET"
+        android:icon="@drawable/ic_basket_selected" />
+
+
+</menu>

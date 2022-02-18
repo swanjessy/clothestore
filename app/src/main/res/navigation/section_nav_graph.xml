@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/section_nav_graph"
+    app:startDestination="@id/catalogue">
+
+    <fragment
+        android:id="@+id/catalogue"
+        android:name="com.example.clothestore.presentation.features.catalogue.CatalogueFragment"
+        android:label="fragment_catalogue"
+        tools:layout="@layout/fragment_catalogue" />
+    <fragment
+        android:id="@+id/wishList"
+        android:name="com.example.clothestore.presentation.features.wishlist.WishListFragment"
+        android:label="fragment_wish_list"
+        tools:layout="@layout/fragment_wish_list" />
+    <fragment
+        android:id="@+id/basket"
+        android:name="com.example.clothestore.presentation.features.basket.BasketFragment"
+        android:label="fragment_basket"
+        tools:layout="@layout/fragment_basket" />
+</navigation>
