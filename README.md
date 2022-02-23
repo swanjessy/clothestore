@@ -1,6 +1,6 @@
 <h2>Architecture Design Pattern</h2>
 
-MVVM with SOLID PRINCIPLES.<br>
+MVVM Clean Architecture with SOLID PRINCIPLES.<br>
 This client application uses Flow, Live-data, Coroutines, View binding and other Jetpack components to handle data opertions.<br>
 
 <h2>Dependency Injection</h2>
